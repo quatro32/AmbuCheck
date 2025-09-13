@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AmbuCheck",
   "resources": {
-    "hash": "sha256-T1dVxZiDy16eLcXm8nY3SgKbxdsU+8eHY6FupOzM9tI=",
+    "hash": "sha256-200OSbaGRgHKI6n21xFpj+H5eipyCZA9Lik4ZSc2As8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-1DD0WRRga8PWKNKURbSCEsCwoZ0fX9EWx6W6j/fUK0w=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-6ekX+li+fFc6dmIv/HnArfe7eM3GPidr6iFZ19NAEd0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vO784jKUO42D+4AfoAumTd/kI3XLFHVyWlKuOPPyeuw=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-wqBwqcD7F/2PbaoI0dluVi+2itjYep+gaUf7CnKuMtA=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-NYNqeP8not6ny7+SSPn9zdMRBcawYTjBhM3uVjMLCJs=",
       "System.Text.RegularExpressions.wasm": "sha256-YVSquKNmLT/T/5RKu/7rGnL0bW2rki1PzPv1Pd29VQI=",
       "System.Private.CoreLib.wasm": "sha256-PTVep8E+cCu7/ecm3NVAT55KuUI8/oKQEQfMhjGpMWA=",
-      "AmbuCheck.wasm": "sha256-u0bRzqHXms83RQYamx1AWn8lXZm4WR32jEWIX0ZYFPM="
+      "AmbuCheck.wasm": "sha256-b+2fOsSBxiOtrbAQaNoKIDaVNtKGlj7V2LVKNVO58DE="
     }
   },
   "cacheBootResources": true,

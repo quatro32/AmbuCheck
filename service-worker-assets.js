@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "Jt+z/t3I",
+  "version": "LXWrlQ34",
   "assets": [
     {
       "hash": "sha256-X+RCBGxVsrHMFb0Dxp5jKn/MgqHhdOUZpXk6eBgYZ5s=",
       "url": "AmbuCheck.styles.css"
     },
     {
-      "hash": "sha256-u0bRzqHXms83RQYamx1AWn8lXZm4WR32jEWIX0ZYFPM=",
+      "hash": "sha256-b+2fOsSBxiOtrbAQaNoKIDaVNtKGlj7V2LVKNVO58DE=",
       "url": "_framework/AmbuCheck.wasm"
     },
     {
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-1DD0WRRga8PWKNKURbSCEsCwoZ0fX9EWx6W6j/fUK0w=",
+      "hash": "sha256-6ekX+li+fFc6dmIv/HnArfe7eM3GPidr6iFZ19NAEd0=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-clVfsdQFJY/NLnHFqrowO7gJlq5QCWLJbLyxdrFZMw8=",
+      "hash": "sha256-RhtLOcABjVhC42WEDMIdhlO1QKhZsKxYoC9yT065t9g=",
       "url": "_framework/blazor.boot.json"
     },
     {
