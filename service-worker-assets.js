@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "LXWrlQ34",
+  "version": "uWf+twmv",
   "assets": [
     {
       "hash": "sha256-X+RCBGxVsrHMFb0Dxp5jKn/MgqHhdOUZpXk6eBgYZ5s=",
       "url": "AmbuCheck.styles.css"
     },
     {
-      "hash": "sha256-b+2fOsSBxiOtrbAQaNoKIDaVNtKGlj7V2LVKNVO58DE=",
+      "hash": "sha256-9RJqjVr6QASgHMPnydjbq+LcR5RG3apYrWPLWjpIDcA=",
       "url": "_framework/AmbuCheck.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-RhtLOcABjVhC42WEDMIdhlO1QKhZsKxYoC9yT065t9g=",
+      "hash": "sha256-WUaciDsP/+89jjALCuKN/WQXBh/cd69Irbgw3Nk/zUY=",
       "url": "_framework/blazor.boot.json"
     },
     {
