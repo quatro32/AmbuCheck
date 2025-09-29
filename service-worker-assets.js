@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "NTIx83o1",
+  "version": "vaE83B9S",
   "assets": [
     {
       "hash": "sha256-kKXKCmrYz1hL0GwF1Xf6tnUeys2DXP7COqpEM1rn3nA=",
       "url": "AmbuCheck.styles.css"
     },
     {
-      "hash": "sha256-S0kgWnh3ex+sc3l0cgPZB5b/ruV6DIN4U9JYdUXbtyc=",
+      "hash": "sha256-SQl3PD6GzYABB+j7xl+hQsEWEuA26z8rtL9qmtXMImw=",
       "url": "_framework/AmbuCheck.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-ZCLPTw/4+cLAgd1KNXKRO+/DVgq44ZKeOX5r/QXz1KA=",
+      "hash": "sha256-D4vRPB/3qI7B/d/fdlYair6B1tOmtFkpQzoxGVV4nAI=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,6 +198,26 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
+      "hash": "sha256-dtAbKrlcxniRgQ1PwBY59t+WhBm5dYHmmCjE00F6zdQ=",
+      "url": "pictures/botboor-blauw.png"
+    },
+    {
+      "hash": "sha256-UgEjzRwkVQTzFJu9lBuLtu4laQcv7jQfuH4pZqWoPNk=",
+      "url": "pictures/botboor-rood.png"
+    },
+    {
+      "hash": "sha256-8igqZafjy7XZ4I9T8jXNhJo0txI/D4OUKMqfyw3tqTE=",
+      "url": "pictures/botboor.png"
+    },
+    {
+      "hash": "sha256-I6YWw/GMW9v1/HkNOi6bwCgE/kDhS5LP6YTNulI703Y=",
+      "url": "pictures/catheter.png"
+    },
+    {
+      "hash": "sha256-ajRAjEGKMvQdS2kPC1IrfozItNH4uxcpKgRtxjK9/HY=",
+      "url": "pictures/coniotomieset.png"
+    },
+    {
       "hash": "sha256-klVR0SS3EAVpYVZWtVwdV2fnG3kysMQNgG990Ri+haY=",
       "url": "pictures/dart-vernevelaar.png"
     },
@@ -206,16 +226,72 @@ self.assetsManifest = {
       "url": "pictures/diclofenac.png"
     },
     {
+      "hash": "sha256-61mKSEWlZpDC4h+JuNbz0MyBKrDDVbSke+oQ4bMLbd0=",
+      "url": "pictures/drukzak.png"
+    },
+    {
       "hash": "sha256-7YbLwc/Fz90/r8g9lms+W5cPvHW4UBdLSxmFyPMWHZw=",
       "url": "pictures/flush.png"
+    },
+    {
+      "hash": "sha256-qr8clqBx3zo1sZs1CydgM6Ua/9cJPDjm3XNfjgPL5sk=",
+      "url": "pictures/gaas.png"
+    },
+    {
+      "hash": "sha256-fOks3q8RDLJkz4e1fBGy/qqBKOpeMiStpE0l3bqoEEg=",
+      "url": "pictures/glijmiddel.png"
     },
     {
       "hash": "sha256-uYFD38wo1qB63TY7y5nhmIOD4rKehyO/kLyYKz4IqBQ=",
       "url": "pictures/glucagen.png"
     },
     {
+      "hash": "sha256-xfw2Gxxm1yHpm+/TKhJNRKMLgS4IX0JJAM1GBqHPq4c=",
+      "url": "pictures/glucose.png"
+    },
+    {
+      "hash": "sha256-bwShXugOmeqJpMENAzsGqP1PUKhwwxfYP3/5k+oijA4=",
+      "url": "pictures/glucoseset.png"
+    },
+    {
+      "hash": "sha256-3QQiPakw/ah0QtKGnFjMs7cegm8dcnqNKe9gVrlH/Iw=",
+      "url": "pictures/icdmagneet.png"
+    },
+    {
+      "hash": "sha256-kIpg0xDeoOde3qXHk4A8GBpsEsLjWk7Mla/iBNSvy/Y=",
+      "url": "pictures/igel-3.png"
+    },
+    {
+      "hash": "sha256-mWllK9QJ8P3rXji5GR3FQe+DB8GUThSuc2sOu2CcFQg=",
+      "url": "pictures/igel-4.png"
+    },
+    {
+      "hash": "sha256-V/eOLUlSSko3j4JT8wNwviI0+uFqUomsYXLl1ksNHRc=",
+      "url": "pictures/igel-5.png"
+    },
+    {
       "hash": "sha256-Lv98Hkiih761JJPB7iYgoPgri8IFSi+xJZcTs6luZZQ=",
       "url": "pictures/infuuspleister.png"
+    },
+    {
+      "hash": "sha256-ubZNmndz4DfAuJDCNvLZxoDA/T2TQkgUZfzGLWk3zxU=",
+      "url": "pictures/infuusset.png"
+    },
+    {
+      "hash": "sha256-i1HWZRR8BnUoG4v9AsDTZyeZAwZd9L5AVdXaMaAbMhQ=",
+      "url": "pictures/intubatietas.png"
+    },
+    {
+      "hash": "sha256-0HJnWSgc30h/7ePVJGRSDmTrprsTnJBIss2ITxWFSiU=",
+      "url": "pictures/leukosilk.png"
+    },
+    {
+      "hash": "sha256-ttGdN+25o0nYHFJ4R3CGgKN+bHxOH0bdIgM/qpkE9R4=",
+      "url": "pictures/lidocaine.png"
+    },
+    {
+      "hash": "sha256-8QlkNYnHfxRzvPA6Ces8fNDvob9tHserW3Scxk5WOKs=",
+      "url": "pictures/maagsonde.png"
     },
     {
       "hash": "sha256-Tx4Ug2LjhRBMqaOiG1MPmFuSIou/6ySXgNXUoV1Q1Zs=",
@@ -242,12 +318,40 @@ self.assetsManifest = {
       "url": "pictures/naald-roze.png"
     },
     {
+      "hash": "sha256-1iT5kLOyr+nMIZAKbjdIJ+IUtYW0OoEkfwBEFy2Mxkg=",
+      "url": "pictures/naaldcontainer.png"
+    },
+    {
+      "hash": "sha256-/58ktrfv3GLpZwRW0HAIOT9ooG7KvfnR3cKMQFWHxno=",
+      "url": "pictures/nacl-100ml.png"
+    },
+    {
       "hash": "sha256-ciFoJU2oP9gTKVojzimNkbetQF6rgp80RQb9zkIAisY=",
       "url": "pictures/nacl.png"
     },
     {
       "hash": "sha256-emTliaibUfUXnCu2cjJkX+KFyX4QgzyenKRjSLhz4rY=",
       "url": "pictures/optreknaald.png"
+    },
+    {
+      "hash": "sha256-fqVjbuUCH32bLgPZV2m+jAgI2GDwKbKXWysP6eXW/Rc=",
+      "url": "pictures/paracetamol-iv.png"
+    },
+    {
+      "hash": "sha256-tEWrLNqbNm2ZS0BoQgOFyowvKTyx+Wue+AXDN9Bfi0g=",
+      "url": "pictures/pehaft.png"
+    },
+    {
+      "hash": "sha256-gFVgUvNWaDkGBJJmNBNdBgUt/6DdKjOBkg2sejar4nc=",
+      "url": "pictures/reafix.png"
+    },
+    {
+      "hash": "sha256-ol4PmlWG8lUnH7Oe70cxKLbjWaD9MkZG7Wprk+ahbsQ=",
+      "url": "pictures/ringerlactaat.png"
+    },
+    {
+      "hash": "sha256-TJFkR6S4g34q4jlfbvLBp3Rhtn5JG3FbLP6E3oXdXQE=",
+      "url": "pictures/schaar.png"
     },
     {
       "hash": "sha256-BlPEnea59h78S+gEcZSgyIyY9vIujWM97Yo6HttlQ/4=",
@@ -270,8 +374,32 @@ self.assetsManifest = {
       "url": "pictures/spuit-5ml.png"
     },
     {
+      "hash": "sha256-Zv3Z8AlME2Ubgxtcd7mA9Rb+EK/lzRil7FqRqdXeKQI=",
+      "url": "pictures/spuit-im.png"
+    },
+    {
+      "hash": "sha256-9SJb87Ev5EsgBW1B5n0TaolZ1vnQF44h1QSnGUnBZn8=",
+      "url": "pictures/spuit60cc-cathetertip.png"
+    },
+    {
+      "hash": "sha256-h3pnTq7SHmm20an3klxYZki3YeHGNClz+aB5ziRRk/c=",
+      "url": "pictures/spuit60cc-leuerlock.png"
+    },
+    {
+      "hash": "sha256-eF0qmrTiKVoT+rKzTBtjQHtgYsZASSQvQylqxox5KqA=",
+      "url": "pictures/stueband.png"
+    },
+    {
       "hash": "sha256-3C+egVS6kR1t+Dd1GGrxYSYv0nxZjlRKgMcEqPaymfI=",
       "url": "pictures/stuwband.png"
+    },
+    {
+      "hash": "sha256-e8dKEnpij00YsChJrFPzi+92ZPcdlnR8f9E/AZHw+ck=",
+      "url": "pictures/stuwband1.png"
+    },
+    {
+      "hash": "sha256-hfBSMwVuN7LUzjJSCrTRjEb8Q1szCnOEE6YOPiCV9F4=",
+      "url": "pictures/teststrip.png"
     },
     {
       "hash": "sha256-BCxpB74gD6xyusCHGEDzwjpowWhcZq0CT6QNJ3hoLGQ=",
@@ -280,6 +408,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-VwEE1LWKdJVzF1l6Vy83RsSSp6c9pn6EPwttPSFhcoo=",
       "url": "pictures/tourniquet.png"
+    },
+    {
+      "hash": "sha256-7oV4sgfzq5rfM6s9ZKWxvVCatEH8dQ+8etXNqDoajn4=",
+      "url": "pictures/tubeholder.png"
+    },
+    {
+      "hash": "sha256-BqcU5ICXRH2CHOu035Fj5C1WjHJnXPh8k5qMjIqkjuQ=",
+      "url": "pictures/zijlijn.png"
     }
   ]
 };
