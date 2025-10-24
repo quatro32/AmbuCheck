@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AmbuCheck",
   "resources": {
-    "hash": "sha256-sFaDbZH5EsbC1uIinW3UjddOd7tBijHmyqHekudo/lk=",
+    "hash": "sha256-usSaS+VePiyJUuYu1EPSazSOyg67i56nM5ueubbkdtI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-NYNqeP8not6ny7+SSPn9zdMRBcawYTjBhM3uVjMLCJs=",
       "System.Text.RegularExpressions.wasm": "sha256-YVSquKNmLT/T/5RKu/7rGnL0bW2rki1PzPv1Pd29VQI=",
       "System.Private.CoreLib.wasm": "sha256-PTVep8E+cCu7/ecm3NVAT55KuUI8/oKQEQfMhjGpMWA=",
-      "AmbuCheck.wasm": "sha256-SQl3PD6GzYABB+j7xl+hQsEWEuA26z8rtL9qmtXMImw="
+      "AmbuCheck.wasm": "sha256-VW3e95ljQDWLcdIJGiB+VHb+FoLuTRjSqm2pdTcZPHs="
     }
   },
   "cacheBootResources": true,

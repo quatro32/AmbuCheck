@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "vaE83B9S",
+  "version": "C0dXRfpl",
   "assets": [
     {
       "hash": "sha256-kKXKCmrYz1hL0GwF1Xf6tnUeys2DXP7COqpEM1rn3nA=",
       "url": "AmbuCheck.styles.css"
     },
     {
-      "hash": "sha256-SQl3PD6GzYABB+j7xl+hQsEWEuA26z8rtL9qmtXMImw=",
+      "hash": "sha256-VW3e95ljQDWLcdIJGiB+VHb+FoLuTRjSqm2pdTcZPHs=",
       "url": "_framework/AmbuCheck.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-D4vRPB/3qI7B/d/fdlYair6B1tOmtFkpQzoxGVV4nAI=",
+      "hash": "sha256-CChB8OkEUqdA6crIkNOTvbiVDGlcswXE7SKtyxxoUB0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,6 +198,74 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
+      "hash": "sha256-XcnDXmfu2NyBdyBZ6o7OMY0Qk2l5evtRV76vHLVTcAc=",
+      "url": "pictures/a1-tas-binnenkant.png"
+    },
+    {
+      "hash": "sha256-HwuPZShfhEgrmeJLRH9Xa48NAFLL1BTYYiLfzsczh/U=",
+      "url": "pictures/a1-tas-bodem.png"
+    },
+    {
+      "hash": "sha256-JGRcGGESR0O4FkAf7SVHohyV67le2N4cuvxG9Xi4T2A=",
+      "url": "pictures/a1-tas-vak1.png"
+    },
+    {
+      "hash": "sha256-S5WnOMAvWZUZELPF/NgXtLa3/rE8cwQ6+uFdEISMGeM=",
+      "url": "pictures/a1-tas-vak2.png"
+    },
+    {
+      "hash": "sha256-v39kEyMasUVkTZSJXtFvqvyWcWbzQFDRb+yr0LMkoDQ=",
+      "url": "pictures/a1-tas-vak3.png"
+    },
+    {
+      "hash": "sha256-VGbhVDCSsph8blPCfcm6bsLp62kMhr8uhckNbp+soBM=",
+      "url": "pictures/a1-tas.png"
+    },
+    {
+      "hash": "sha256-k+CFf64Nz3f67/3gp41HDtAYDhyqoTKa0dxi4kqMkRI=",
+      "url": "pictures/adenosine.png"
+    },
+    {
+      "hash": "sha256-PzO4bzC+1KYLwlQL1CW32XTomDuM0hLtK+DsVIf3iY4=",
+      "url": "pictures/adrenaline.png"
+    },
+    {
+      "hash": "sha256-IsGUNU3uckJxhbI7K7NWxo2yEtRPMd2VmGFdyoXW5B4=",
+      "url": "pictures/afsluitdopje.png"
+    },
+    {
+      "hash": "sha256-amsHsbzFtjW0Qn2T7TGfdSCOXlhwkwj8fG7Ir+jj5pY=",
+      "url": "pictures/amiodaron.png"
+    },
+    {
+      "hash": "sha256-dy8nJKUMrEQGIMxJCepCeY841zHZxMiNwmvutzFP/3Y=",
+      "url": "pictures/ampulclip.png"
+    },
+    {
+      "hash": "sha256-vB5yU4Pzvu7R2PWla0do+/TJEYbMngh95IawuLK5KhA=",
+      "url": "pictures/ascal500.png"
+    },
+    {
+      "hash": "sha256-DblyUfL3fljVme8nzX3vxhcEMPJJ6Q4WfC03ujq4IDw=",
+      "url": "pictures/ascal80.png"
+    },
+    {
+      "hash": "sha256-41tJOxswfuc5+ZRng6dPLW+Qu3ZYXK/lenthNkQimJs=",
+      "url": "pictures/atropine.png"
+    },
+    {
+      "hash": "sha256-Wx/QpQsuTSDTilfsJtfQp/X6ZaFDCcdQyF6DWYy11cw=",
+      "url": "pictures/bacteriefilter.png"
+    },
+    {
+      "hash": "sha256-kO2yTNG45h98EETJsiJiyZqyIgCXBYjvbxR/QmmbqPM=",
+      "url": "pictures/balon.png"
+    },
+    {
+      "hash": "sha256-rUQO6OeckyqMxNxqkjXAR+eXV4k3lNcFm+fMX1Tg0is=",
+      "url": "pictures/beademingsmasker.png"
+    },
+    {
       "hash": "sha256-dtAbKrlcxniRgQ1PwBY59t+WhBm5dYHmmCjE00F6zdQ=",
       "url": "pictures/botboor-blauw.png"
     },
@@ -210,8 +278,20 @@ self.assetsManifest = {
       "url": "pictures/botboor.png"
     },
     {
+      "hash": "sha256-vf4C+z5jw7gCnpunnWEpEBqEfhhupf4L2Je75gbpt/0=",
+      "url": "pictures/brilique.png"
+    },
+    {
       "hash": "sha256-I6YWw/GMW9v1/HkNOi6bwCgE/kDhS5LP6YTNulI703Y=",
       "url": "pictures/catheter.png"
+    },
+    {
+      "hash": "sha256-3AlJendvrpWJgqVruhEWCf4JaZrceVK+Y3Lq1bqD4uM=",
+      "url": "pictures/co2sensor.png"
+    },
+    {
+      "hash": "sha256-iGmary4pqwBuq0TKB68pFGkfYxMoV1Ou6A3XRPD2Oew=",
+      "url": "pictures/combivent.png"
     },
     {
       "hash": "sha256-ajRAjEGKMvQdS2kPC1IrfozItNH4uxcpKgRtxjK9/HY=",
@@ -230,8 +310,20 @@ self.assetsManifest = {
       "url": "pictures/drukzak.png"
     },
     {
-      "hash": "sha256-7YbLwc/Fz90/r8g9lms+W5cPvHW4UBdLSxmFyPMWHZw=",
+      "hash": "sha256-ku+2PHldBVr5Pwn99NRoc+hbQ1Bx+MBUZ8ZKw9TC5OA=",
+      "url": "pictures/fentanyl.png"
+    },
+    {
+      "hash": "sha256-TzoVc/EHbCmbndLy+JCQ7o4dFxVPGhoVx4ylJoio3mA=",
+      "url": "pictures/flumazenil.png"
+    },
+    {
+      "hash": "sha256-/9ZT6OwgC41LIUILrEdOCcZL2qSo9vdIdx5zIUZ9zts=",
       "url": "pictures/flush.png"
+    },
+    {
+      "hash": "sha256-Ny2ybBH28F5Hb6cRzjEqUG9mYESoHAWUwcj1Bl/OwKU=",
+      "url": "pictures/furosemide.png"
     },
     {
       "hash": "sha256-qr8clqBx3zo1sZs1CydgM6Ua/9cJPDjm3XNfjgPL5sk=",
@@ -252,6 +344,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-bwShXugOmeqJpMENAzsGqP1PUKhwwxfYP3/5k+oijA4=",
       "url": "pictures/glucoseset.png"
+    },
+    {
+      "hash": "sha256-UUe6N+gLSZDP/c34dCUS/AkFLSsTJS4CF7QqswXntj0=",
+      "url": "pictures/heparine.png"
+    },
+    {
+      "hash": "sha256-R1Imqo4vd3PDVCfCvUFQT/T24ym8AvJLZv6x5e78hPk=",
+      "url": "pictures/hydrocortison.png"
     },
     {
       "hash": "sha256-3QQiPakw/ah0QtKGnFjMs7cegm8dcnqNKe9gVrlH/Iw=",
@@ -278,8 +378,16 @@ self.assetsManifest = {
       "url": "pictures/infuusset.png"
     },
     {
-      "hash": "sha256-i1HWZRR8BnUoG4v9AsDTZyeZAwZd9L5AVdXaMaAbMhQ=",
+      "hash": "sha256-BSFv0mdeI2K8ejCM9/FB1Epg5lU05zpPQRgdl8w4cWs=",
       "url": "pictures/intubatietas.png"
+    },
+    {
+      "hash": "sha256-RY8tzzL7DCg3wWMHlpTa5XZ2RUSGda0ydInISQRBuL4=",
+      "url": "pictures/ketamine.png"
+    },
+    {
+      "hash": "sha256-xhoeCP0A1pO3G065is7urWR5xlr0yjektViARLyn0uU=",
+      "url": "pictures/koppelstuk.png"
     },
     {
       "hash": "sha256-0HJnWSgc30h/7ePVJGRSDmTrprsTnJBIss2ITxWFSiU=",
@@ -292,6 +400,46 @@ self.assetsManifest = {
     {
       "hash": "sha256-8QlkNYnHfxRzvPA6Ces8fNDvob9tHserW3Scxk5WOKs=",
       "url": "pictures/maagsonde.png"
+    },
+    {
+      "hash": "sha256-sORl99T/ntn5EN5cR7uyK1HiOierauqfLQvUTTGb7VM=",
+      "url": "pictures/mayo10.png"
+    },
+    {
+      "hash": "sha256-BKGlDTkeia/CFxxnHm3sUCT55HyOb9gapsAp25NChR4=",
+      "url": "pictures/mayo11.png"
+    },
+    {
+      "hash": "sha256-tZoh6rHbuh5HRuOeiacD9vaY2aXXYh+5KbftrFGaZFE=",
+      "url": "pictures/mayo12.png"
+    },
+    {
+      "hash": "sha256-mMTN5/2dyYwU0Zb5bPDJST4GoYnfmQC4YKwKUzsQlys=",
+      "url": "pictures/mayo7.png"
+    },
+    {
+      "hash": "sha256-PKztzXyY1ftbStSCGmIzYygu93h62JIZOLTBwRLjrkU=",
+      "url": "pictures/mayo8.png"
+    },
+    {
+      "hash": "sha256-ykGG4yQt1hpGPgvYwmU71ddhsYLKAxWeeaaihACPfO8=",
+      "url": "pictures/mayo9.png"
+    },
+    {
+      "hash": "sha256-/WfLgu/u8HBXRlPRlEoRHUuw7MBj7Cy8njSIGlLe7NY=",
+      "url": "pictures/medicatielabel.png"
+    },
+    {
+      "hash": "sha256-sZ85Y4KX/irFXzCx5nIPDmbpemiFUwyXyREMkUS4HD8=",
+      "url": "pictures/medicatietas-binnenkant.png"
+    },
+    {
+      "hash": "sha256-t+Q2gIWe3MLDH27eqqcaIBuNBFOSLfR6tKeTD5xIepc=",
+      "url": "pictures/medicatietas.png"
+    },
+    {
+      "hash": "sha256-RhWnq4xL15xoRaB4umYR4c8+13qb0zm3JKkPtGe9O84=",
+      "url": "pictures/midazolam.png"
     },
     {
       "hash": "sha256-Tx4Ug2LjhRBMqaOiG1MPmFuSIou/6ySXgNXUoV1Q1Zs=",
@@ -330,12 +478,40 @@ self.assetsManifest = {
       "url": "pictures/nacl.png"
     },
     {
+      "hash": "sha256-GFa9EALBrBRYDmXsGZLJqCg1w3A0IQ0GK3ZJrRg7u84=",
+      "url": "pictures/naloxon.png"
+    },
+    {
+      "hash": "sha256-LnyFmAD3cMfJ5O74v/0HIyeKSjjBIgjGGhG5vBm3cQU=",
+      "url": "pictures/nasotube.PNG"
+    },
+    {
+      "hash": "sha256-GWTJE9kaaPH7au34u+/z/jzJqkJM6rU9+U9a/HJnOy0=",
+      "url": "pictures/nitroglycerine.png"
+    },
+    {
+      "hash": "sha256-5486GS8ogS0yXkCJlWX6MKUyHKIwVwIQKceSlf1X3Bw=",
+      "url": "pictures/nonrebreathingmasker.png"
+    },
+    {
+      "hash": "sha256-SCg5MPDEPXnXhaS5tEd0DMUxLdOd+4FFVP3mNIO91c8=",
+      "url": "pictures/ondansetron.png"
+    },
+    {
       "hash": "sha256-emTliaibUfUXnCu2cjJkX+KFyX4QgzyenKRjSLhz4rY=",
       "url": "pictures/optreknaald.png"
     },
     {
       "hash": "sha256-fqVjbuUCH32bLgPZV2m+jAgI2GDwKbKXWysP6eXW/Rc=",
       "url": "pictures/paracetamol-iv.png"
+    },
+    {
+      "hash": "sha256-7VGkO48cVhSxv0adjNS9uOfDRJh6NEKPByJFwzTTxT0=",
+      "url": "pictures/paracetamol.png"
+    },
+    {
+      "hash": "sha256-5JjIe8wIPMRSJtIaRmxZkW+3cS5U/dYrNL1VgIqtikg=",
+      "url": "pictures/peepklep.png"
     },
     {
       "hash": "sha256-tEWrLNqbNm2ZS0BoQgOFyowvKTyx+Wue+AXDN9Bfi0g=",
@@ -398,6 +574,18 @@ self.assetsManifest = {
       "url": "pictures/stuwband1.png"
     },
     {
+      "hash": "sha256-EjcoGu4bVvE1KdYnW24BkcSESUfE/7nnUNqB6HhB90k=",
+      "url": "pictures/swiffel.png"
+    },
+    {
+      "hash": "sha256-v47Nkt094jpXpjrELrkIKi3htqqrou19A1NM+mOtjDw=",
+      "url": "pictures/tas-blauw.png"
+    },
+    {
+      "hash": "sha256-K32ctM3ga6O+fRHJ3bYvBgkNYY5JeRh7J3nU5qxVdNs=",
+      "url": "pictures/tavegyl.png"
+    },
+    {
       "hash": "sha256-hfBSMwVuN7LUzjJSCrTRjEb8Q1szCnOEE6YOPiCV9F4=",
       "url": "pictures/teststrip.png"
     },
@@ -410,12 +598,32 @@ self.assetsManifest = {
       "url": "pictures/tourniquet.png"
     },
     {
+      "hash": "sha256-7NiBZWCQ5L44CVs5Z6LeIE1NcDptlUef613Yx2DLniU=",
+      "url": "pictures/tranexaminezuur.png"
+    },
+    {
       "hash": "sha256-7oV4sgfzq5rfM6s9ZKWxvVCatEH8dQ+8etXNqDoajn4=",
       "url": "pictures/tubeholder.png"
     },
     {
+      "hash": "sha256-Gw9PEPtDA6EORzKJDCmt6kgOpiLsG/W5cEChAYq3IgI=",
+      "url": "pictures/vernevelmasker.png"
+    },
+    {
+      "hash": "sha256-IM01RXt4WadWckewiAvn+og1kwmeiPZNG2p/ZR0CNtI=",
+      "url": "pictures/vernevelmondstuk.png"
+    },
+    {
       "hash": "sha256-BqcU5ICXRH2CHOu035Fj5C1WjHJnXPh8k5qMjIqkjuQ=",
       "url": "pictures/zijlijn.png"
+    },
+    {
+      "hash": "sha256-MvcslU81huyXx/F9YK5MwPfRDIFFoNe3agvNTjwUji8=",
+      "url": "pictures/zuurstofbril.png"
+    },
+    {
+      "hash": "sha256-LrWShnx68dDX9rEeza+SrLRos4oaM6j8gO+UcYUBN4s=",
+      "url": "pictures/zuurstofcilinder.png"
     }
   ]
 };
