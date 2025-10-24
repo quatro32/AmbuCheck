@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "C0dXRfpl",
+  "version": "pxMpkd/T",
   "assets": [
     {
       "hash": "sha256-kKXKCmrYz1hL0GwF1Xf6tnUeys2DXP7COqpEM1rn3nA=",
       "url": "AmbuCheck.styles.css"
     },
     {
-      "hash": "sha256-VW3e95ljQDWLcdIJGiB+VHb+FoLuTRjSqm2pdTcZPHs=",
+      "hash": "sha256-wWmcc0k45+t0eWwGYDFqG2RHMPeRK0SUOfF3kiSvWTA=",
       "url": "_framework/AmbuCheck.wasm"
     },
     {
@@ -110,7 +110,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-R2f4mvuA8seuZ9OoQxLT4Y+yXnMFNkmUw3E4r248YFw=",
+      "hash": "sha256-BMyMErDtjs7R82GM98ZD4Y2LhnNq39vOTWaN+cUCA4w=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-CChB8OkEUqdA6crIkNOTvbiVDGlcswXE7SKtyxxoUB0=",
+      "hash": "sha256-BA2//fVbScbv/cCZCZDs4AhAKUxttMAnYilEz4ju0/M=",
       "url": "_framework/blazor.boot.json"
     },
     {
